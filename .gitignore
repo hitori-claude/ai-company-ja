@@ -1,0 +1,5 @@
+.env
+*.key
+.claude/settings.local.json
+outputs/**
+!outputs/**/.gitkeep
